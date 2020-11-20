@@ -38,4 +38,3 @@ Check the link : [Project Link](https://nimeshmora.github.io/ecampus-web/)
 Nimesha Jinarajadasa
 Ravindu Jayaweera
 Kasun Jayasinghe
-Suneth Kanchana
